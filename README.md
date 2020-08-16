@@ -1,3 +1,8 @@
-# Test
+# GitHub VdszHun Repositoryja
 
-Holnap estig befejezni ezt a szépséget.
+Egy kis GitHub-os Repository. Nagy jövőre ne számíts ezzel kapcsolatban.
+
+# Teszt cucc
+
+Tesztelés - yixhesnudkwkd
+Jedjskekbfbd
