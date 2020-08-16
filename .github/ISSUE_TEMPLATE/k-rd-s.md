@@ -10,8 +10,10 @@ assignees: ''
 **Kérdés:**
 ---
 
+
 **Fotók:**
 ---
+
 
 **Egyéb ezzel kapcsolatban:**
 ---

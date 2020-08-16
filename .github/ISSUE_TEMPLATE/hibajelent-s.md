@@ -10,11 +10,14 @@ assignees: ''
 **A Hiba és helye:**
 ---
 
+
 **Fotók:**
 ---
 
+
 **Minek kéne történnie:**
 ---
+
 
 **Egyéb ezzel kapcsolatban:**
 ---
