@@ -2,7 +2,7 @@
 name: Egyéb
 about: Valami mással kapcsolatban szeretnél jelenteni?
 title: ''
-labels: ''
+labels: Egyéb
 assignees: ''
 
 ---
