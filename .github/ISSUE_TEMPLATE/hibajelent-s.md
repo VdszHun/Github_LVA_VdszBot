@@ -2,7 +2,7 @@
 name: Hibajelentés
 about: Hibát találtál a Discord szerverünkön vagy esetleg máshol? Jelentsed itt.
 title: ''
-labels: Hiba
+labels: ''
 assignees: ''
 
 ---

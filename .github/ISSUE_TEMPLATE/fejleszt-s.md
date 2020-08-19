@@ -2,7 +2,7 @@
 name: Fejlesztés
 about: Szeretnél egy újdonságot? Írd le :D
 title: ''
-labels: Fejlesztés
+labels: ''
 assignees: ''
 
 ---

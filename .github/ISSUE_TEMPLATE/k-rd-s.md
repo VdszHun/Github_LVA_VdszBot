@@ -2,7 +2,7 @@
 name: Kérdés
 about: Esetleg tudni szeretnél valamit?
 title: ''
-labels: Kérdés
+labels: ''
 assignees: ''
 
 ---
