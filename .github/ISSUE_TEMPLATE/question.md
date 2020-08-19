@@ -2,7 +2,7 @@
 name: Question
 about: You wanna know something?
 title: ''
-labels: ''
+labels: Question
 assignees: ''
 
 ---

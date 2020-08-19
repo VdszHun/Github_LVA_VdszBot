@@ -2,7 +2,7 @@
 name: VdszBot developing
 about: You want something new in VdszBot? Write it down and it may become a feature.
 title: ''
-labels: ''
+labels: VdszBot developing
 assignees: ''
 
 ---

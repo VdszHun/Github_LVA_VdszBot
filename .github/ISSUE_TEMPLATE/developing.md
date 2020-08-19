@@ -2,7 +2,7 @@
 name: Developing
 about: You want something new? Feel free to write it down :D
 title: ''
-labels: ''
+labels: Developing
 assignees: ''
 
 ---
